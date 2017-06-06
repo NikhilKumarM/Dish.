@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Camera" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_usercredentials"
+            android:icon="@drawable/credentials"
+            android:title="User Credentials" />
+        <item
+            android:id="@+id/nav_favourite"
+            android:icon="@drawable/favourite"
+            android:title="Favourites" />
+        <item
+            android:id="@+id/nav_signout"
+            android:icon="@drawable/exit"
+            android:title="Sign Out" />
+
+    </group>
+
+    <item android:title="Filters">
+        <menu>
+            <item
+                android:id="@+id/navbar_quality"
+                android:icon="@drawable/foodquality"
+                android:title="Food Quality"
+                app:actionLayout="@layout/spinner" />
+            <item
+                android:id="@+id/navbar_price"
+                android:icon="@drawable/dollar"
+                android:title="Food Price"
+                app:actionLayout="@layout/spinner"/>
+            <item
+                android:id="@+id/navbar_service"
+                android:icon="@drawable/service"
+                android:title="Service"
+                app:actionLayout="@layout/spinner"/>
+            <item
+                android:id="@+id/navbar_rating"
+                android:icon="@drawable/star"
+                android:title="Food rating"
+                app:actionLayout="@layout/spinner"/>
+        </menu>
+    </item>
+
+</menu>

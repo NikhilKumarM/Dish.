@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/newbackground"
+    tools:context="com.project.umbcmobile.umbc_mobile.MainActivity">
+
+    <ImageView
+        android:id="@+id/backgroundLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="700dp"
+        android:layout_centerHorizontal="true"
+        android:padding="150dp"
+        android:src="@drawable/logoorange"
+        android:visibility="invisible"/>
+
+    <Button
+        android:id="@+id/mapButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/backgroundLogo"
+        android:layout_centerHorizontal="true"
+        android:text="Find dishes near you"
+        android:textSize="40dp"
+
+        android:theme="@style/artButton" />
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mapButton"
+        android:layout_centerHorizontal="true"
+        android:text="Sign in to get started!"
+        android:textSize="40dp"
+        android:theme="@style/artButton" />
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/cameraButton"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="@dimen/fab_margin"
+            android:elevation="10dp"
+            app:srcCompat="@drawable/camera"
+            android:visibility="invisible"/>
+    </android.support.design.widget.CoordinatorLayout>
+
+
+</RelativeLayout>

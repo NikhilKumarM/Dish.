@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Nikhil Kumar Mengani\\Documents\\GitHub\\UMBC_mobile\\UMBC_mobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Nikhil Kumar Mengani\\Documents\\GitHub\\UMBC_mobile\\UMBC_mobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Nikhil Kumar Mengani\\Documents\\GitHub\\UMBC_mobile\\UMBC_mobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Nikhil Kumar Mengani\\Documents\\GitHub\\UMBC_mobile\\UMBC_mobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Nikhil Kumar Mengani\\Documents\\GitHub\\UMBC_mobile\\UMBC_mobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\my_ic_launcher.png",
+        "source": "C:\\Users\\Nikhil Kumar Mengani\\Documents\\GitHub\\UMBC_mobile\\UMBC_mobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\my_ic_launcher.png"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">25119180673-9de9aq1fdmo1gv96337ga7bk4amgdlri.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://umbc-mobile.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">25119180673</string>
+    <string name="google_api_key" translatable="false">AIzaSyAnP2R_Ju5QA8dDC5xtT61vkYkwusmiHZ4</string>
+    <string name="google_app_id" translatable="false">1:25119180673:android:abcf76fe7fae2037</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAnP2R_Ju5QA8dDC5xtT61vkYkwusmiHZ4</string>
+    <string name="google_storage_bucket" translatable="false">umbc-mobile.appspot.com</string>
+</resources>

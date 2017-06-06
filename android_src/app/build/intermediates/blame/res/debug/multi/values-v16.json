@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Nikhil Kumar Mengani\\Documents\\GitHub\\UMBC_mobile\\UMBC_mobile\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikhil Kumar Mengani\\.android\\build-cache\\91ec3722b42d8e6d8448fe0d37eb4f7e706fc270\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]

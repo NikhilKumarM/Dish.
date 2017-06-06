@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "25119180673",
+    "firebase_url": "https://umbc-mobile.firebaseio.com",
+    "project_id": "umbc-mobile",
+    "storage_bucket": "umbc-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25119180673:android:abcf76fe7fae2037",
+        "android_client_info": {
+          "package_name": "com.project.umbcmobile.umbc_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25119180673-0ni2ohvu3dds6hbi2t6uvrff6gqbk23t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.umbcmobile.umbc_mobile",
+            "certificate_hash": "8d5c3c7935a377f46cd9d0d33f217cf691d0aaf9"
+          }
+        },
+        {
+          "client_id": "25119180673-9de9aq1fdmo1gv96337ga7bk4amgdlri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnP2R_Ju5QA8dDC5xtT61vkYkwusmiHZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25119180673-9de9aq1fdmo1gv96337ga7bk4amgdlri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
